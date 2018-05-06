@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{F13A260F-1371-D76B-74D6-BA798D756FD4}</ProjectGuid>
+    <ProjectGuid>{23829A7D-B80D-7547-4463-6101D4C4375C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -206,25 +206,25 @@
     <None Include="Assets\RPG Character Animation Pack\Elements\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
     <None Include="Assets\RPG Character Animation Pack\Elements\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
     <Reference Include="Cinemachine">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine.Editor">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Cinemachine.Editor.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Cinemachine.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity/Projects/WorkingGroupD/BombTestGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity/Projects/WorkingGroupD/KenkenGame_git/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity2018_1_f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
